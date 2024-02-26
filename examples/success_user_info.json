@@ -1,0 +1,161 @@
+{
+  "code": 0,
+  "credits": 0.005,
+  "result": {
+    "status_code": 0,
+    "status_msg": "",
+    "user": {
+      "account_type": 0,
+      "ad_virtual": false,
+      "apple_account": 0,
+      "avatar_168x168": {
+        "uri": "tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9",
+        "url_list": [
+          "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9~c5_168x168.webp?lk3s=a5d48078&x-expires=1709118000&x-signature=lSBJggczqAGk8%2F3rR1J3tJePWd8%3D",
+          "https://p58-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9~c5_168x168.webp?lk3s=a5d48078&x-expires=1709118000&x-signature=rZ3bIDq4MYHXhx37RVG4zuIElV8%3D",
+          "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9~c5_168x168.jpeg?lk3s=a5d48078&x-expires=1709118000&x-signature=raJpfg3Hav9HUxtNOTM3aIHeuQg%3D"
+        ],
+        "url_prefix": null
+      },
+      "avatar_300x300": {
+        "uri": "tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9",
+        "url_list": [
+          "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9~c5_300x300.webp?lk3s=a5d48078&x-expires=1709118000&x-signature=gTF%2BszXbVrvcHFDJK9c1EHjy2Oo%3D",
+          "https://p58-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9~c5_300x300.webp?lk3s=a5d48078&x-expires=1709118000&x-signature=8QiUhkdCJ%2BIyP3D7Jjb3WkL8Lkc%3D",
+          "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9~c5_300x300.jpeg?lk3s=a5d48078&x-expires=1709118000&x-signature=U1JfbYEDjXhADCI9b1RxKTEbK6E%3D"
+        ],
+        "url_prefix": null
+      },
+      "avatar_larger": {
+        "uri": "tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9",
+        "url_list": [
+          "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9.webp?lk3s=a5d48078&x-expires=1709118000&x-signature=n8KxyJo4H8DZzKGgZ9WB7h87pso%3D",
+          "https://p58-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9.webp?lk3s=a5d48078&x-expires=1709118000&x-signature=2xvVSW3iUFC77zTllZ8VHy0taaE%3D",
+          "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9.jpeg?lk3s=a5d48078&x-expires=1709118000&x-signature=YL6udqyB7W7HOCvsxVeRMKx7OdI%3D"
+        ],
+        "url_prefix": null
+      },
+      "avatar_medium": {
+        "uri": "tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9",
+        "url_list": [
+          "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9.webp?lk3s=a5d48078&x-expires=1709118000&x-signature=cErsZ3dzlOWXjD459GeWwWnxwUk%3D",
+          "https://p58-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9.webp?lk3s=a5d48078&x-expires=1709118000&x-signature=hI0YRPXAWI7HTuSML6WMMo0kcJc%3D",
+          "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9.jpeg?lk3s=a5d48078&x-expires=1709118000&x-signature=qsJTMO64G9H79PvvvePVW5Nk8%2FE%3D"
+        ],
+        "url_prefix": null
+      },
+      "avatar_thumb": {
+        "uri": "tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9",
+        "url_list": [
+          "https://p58-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9.webp?lk3s=a5d48078&x-expires=1709118000&x-signature=vs0RPIY1rg%2BjG9mMXOceVZiWpC0%3D",
+          "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9.webp?lk3s=a5d48078&x-expires=1709118000&x-signature=pkkzzmUIZt4bxYB68xXU4aRYHKA%3D",
+          "https://p58-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/33a6b03d81fd59ac344994e47c2c7fc9.jpeg?lk3s=a5d48078&x-expires=1709118000&x-signature=puYtH1AmEbS%2FOqJ6OfGwLphquJY%3D"
+        ],
+        "url_prefix": null
+      },
+      "aweme_count": 109,
+      "category": "",
+      "commerce_user_info": {
+        "ad_revenue_rits": null
+      },
+      "commerce_user_level": 0,
+      "cover_url": [
+        {
+          "uri": "musically-maliva-obj/1612555907887110",
+          "url_list": [
+            "https://p77-sign-va.tiktokcdn.com/obj/musically-maliva-obj/1612555907887110?lk3s=2472a6c6&x-expires=1708966800&x-signature=%2B8MeCKuDexZCsiDKxRAa63l93%2B8%3D",
+            "https://p16-sign-va.tiktokcdn.com/obj/musically-maliva-obj/1612555907887110?lk3s=2472a6c6&x-expires=1708966800&x-signature=ilRfRpy0jhifmz9q96MYlFGzN0Y%3D"
+          ],
+          "url_prefix": null
+        }
+      ],
+      "custom_verify": "",
+      "display_qna_on_profile": 1,
+      "enterprise_verify_reason": "",
+      "favoriting_count": 0,
+      "follow_status": 0,
+      "follower_count": 91207,
+      "follower_status": 0,
+      "following_count": 136,
+      "forward_count": 0,
+      "ins_id": "pomfychuu",
+      "is_block": false,
+      "is_blocked": false,
+      "is_effect_artist": false,
+      "is_star": false,
+      "live_commerce": false,
+      "live_push_notification_status": 2,
+      "message_chat_entry": false,
+      "mplatform_followers_count": 0,
+      "music_tab_info": {
+        "show_artist_pick_videos": false
+      },
+      "nickname": "Pomfy Chan",
+      "original_musician": {
+        "digg_count": 0,
+        "music_count": 0,
+        "music_used_count": 0,
+        "new_release_clip_ids": null
+      },
+      "privacy_setting": {
+        "following_visibility": 1
+      },
+      "profile_tab_type": 0,
+      "recommend_reason_relation": "",
+      "room_id": 0,
+      "sec_uid": "MS4wLjABAAAAr3w0dofsDgAKqtlhwwKOerRb16ykDrpHn8ubPxszM_HJTTxX9trPhvAcrTRmcapT",
+      "secret": 0,
+      "share_info": {
+        "bool_persist": 1,
+        "now_invitation_card_image_urls": null,
+        "share_desc": "Check out Pomfy Chan! #TikTok",
+        "share_desc_info": "TikTok: Make Every Second Count",
+        "share_image_url": {
+          "uri": "tos-alisg-p-0037/cf1fb9457247400a95afc4ff6f76b6fc_1705681144",
+          "url_list": [
+            "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/cf1fb9457247400a95afc4ff6f76b6fc_1705681144?lk3s=2472a6c6&x-expires=1708966800&x-signature=vmdr1xFrAO4R%2FZq8crtEBmqMyRY%3D",
+            "https://p77-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/cf1fb9457247400a95afc4ff6f76b6fc_1705681144?lk3s=2472a6c6&x-expires=1708966800&x-signature=ihw6iQzB9F6YzIgVSKEATYIUHss%3D"
+          ],
+          "url_prefix": null
+        },
+        "share_title": "Join TikTok and see what I’ve been up to!",
+        "share_title_myself": "",
+        "share_title_other": "",
+        "share_url": "https://www.tiktok.com/@pomfy_chu?_r=1&_d=e43a2hbchld189&sec_uid=MS4wLjABAAAAr3w0dofsDgAKqtlhwwKOerRb16ykDrpHn8ubPxszM_HJTTxX9trPhvAcrTRmcapT&share_author_id=6774419827379389445&sharer_language=en&source=h5_t"
+      },
+      "short_id": "0",
+      "show_favorite_list": false,
+      "signature": "да, ты видел меня в мемах(*´꒳`*)\n💖YouTube,Twitch pomfychan💖 \nЗаходи на контент",
+      "signature_language": "un",
+      "story_status": 0,
+      "supporting_ngo": {},
+      "tab_settings": {
+        "private_tab": {
+          "private_tab_style": 1,
+          "show_private_tab": false
+        }
+      },
+      "total_favorited": 2526659,
+      "twitter_id": "",
+      "twitter_name": "",
+      "uid": "6774419827379389445",
+      "unique_id": "pomfy_chu",
+      "verification_type": 0,
+      "video_icon": {
+        "uri": "tos-alisg-avt-0068/626ac91f810b2bce5d7ead6def1cff7b",
+        "url_list": [
+          "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-avt-0068/626ac91f810b2bce5d7ead6def1cff7b?lk3s=a5d48078&x-expires=1709118000&x-signature=4eJ91WIGBbhbAkpFXSeYlcUE4y4%3D",
+          "https://p58-sign-sg.tiktokcdn.com/obj/tos-alisg-avt-0068/626ac91f810b2bce5d7ead6def1cff7b?lk3s=a5d48078&x-expires=1709118000&x-signature=EJcc%2Bsqt5udX04gWjTJnND8ABBU%3D"
+        ],
+        "url_prefix": null
+      },
+      "watch_status": false,
+      "with_commerce_enterprise_tab_entry": false,
+      "with_commerce_entry": false,
+      "with_new_goods": false,
+      "youtube_channel_id": "UCY5fRimtrCqgVm-Bpxe8cQw",
+      "youtube_channel_title": "Pomfy Chan"
+    }
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/tiktok-scraping-api-6499"
+}
